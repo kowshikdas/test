@@ -1,3 +1,4 @@
 this is test1.
 this is test1 secound line.
 this is test1 third line.
+this logo shift centered.now this task is completed.
